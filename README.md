@@ -15,7 +15,7 @@ Based on the problem statement, I created a React Application which updates the 
 
 For future scope of the application, I can add features such as user login, by this we can keep track of users and display which calculation operation is performed by which user in the log. Additionally, extended scientic caluclations feature can be implemented as a add-on.
 
-### Demo
+### Demo-GIF
 
 ![demo_capture](https://user-images.githubusercontent.com/13897811/87899490-f9f69700-ca16-11ea-969e-110e6758dfa0.gif)
 
