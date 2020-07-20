@@ -10,8 +10,8 @@ For example, user A and user B go to your site at the same time. User A calculat
 
 Results should remain between sessions. Only show the last 10 calculations descending from most recent to oldest.
 
-### Approach:
-Based on the problem statement, I created a React Application which updates the calculation log for all users connected to the website. It updates the logscreen for 10 most recent calculations. These calculation are cleared when the session is terminated. I have used JavaScript, HTML and CSS for styling. Node.js is required for starting the application. Lastly, deployed the React App using github gh-pages. Link to the application is mentioned above. 
+### Solution:
+Based on the problem statement, I created a React Application which updates the calculation log for all users connected to the website. It updates the logscreen and shows only 10 most recent calculations. These calculation are cleared when the session is terminated. I have used JavaScript, HTML and CSS for styling. Node.js is required for starting the application. Lastly, deployed the React App using github gh-pages. Link to the application is mentioned above. 
 
 For future scope of the application, I can add features such as user login, by this we can keep track of users and display which calculation operation is performed by which user in the log. Additionally, extended scientic caluclations feature can be implemented as a add-on.
 
