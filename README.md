@@ -27,7 +27,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Installs all the necessary nod modules to run the application.
+Installs all the necessary node modules to run the application.
 
 ### `npm start`
 
